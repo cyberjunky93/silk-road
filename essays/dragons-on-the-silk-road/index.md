@@ -17,13 +17,12 @@ tags:
 - bronzework
 ---
 
-# Dragons on the Silk Road: Legitimacy, Myth, and Material Culture in Four Objects"
+# Dragons on the Silk Road: Legitimacy, Myth, and Material Culture in Four Objects
 
 ## Introduction
 
 From adorning bowls and pestles to occupying the folios of illuminated manuscripts, dragon iconography along the Silk Road is one of the most pervasive artistic motifs. The Silk Road was not just a route for luxury goods and the silk for which it is named, but also mythology, knowledge formation, and cultural exchange. Each culture that uses the iconography applies it to its own place in time and space. The dragon then served as a flexible epistemological tool, adaptable to any individual's narrative, ranging from a cosmological force to a symbol of legitimacy and intellectual inquiry through a shared visual language. 
 
-The text below is mostly filler to show how an essay flows, but we'll call out key features as you encounter them.
 
 
 ## Your First Section Heading
