@@ -29,7 +29,7 @@ From adorning bowls and pestles to occupying the folios of illuminated manuscrip
 {% include images/figure.html class="right" width="48%" caption="Bowl with Dragons, ca. 607 AH/1210 CE, Stonepaste; glazed in opaque white, luster-painted. New York, Metropolitan Museum of Art. [Source](https://www.metmuseum.org/art/collection/search/451636)" image-path="bowl-with-dragons.jpg" %}
 
 
-In each depiction of the dragon in this collection, the shape remains largely the same, though with some regional differences. It retains what could be classified as classic motifs, with a consistent coiled, serpentine form, regardless of whether its exact design reflects what art historian Persis Berlekamp calls a “Chinese-style,” or a sea monster like al-tannin. In each depiction, the dragon is associated with power in different forms: either beneficial or potentially dangerous. It is perhaps one of the most instantly recognisable iconographic forms on the Silk Road across various cultures and geographies, which could be adapted to a wide range of cultural needs. Its form was often dual in intention, as Abbas Daneshvari points out in Of Serpents and Dragons in Islamic Art and Related Animals: An Iconographic Study, “The dual symbolism of the dragon [...] communicates the ruler's significance as the light that is both beneficial and immolating; and also as the darkness that is both destructive and protecting.”[^1]The dragon, across these objects, is a clearly multifaceted force that communicated meaning through a shared visual language that was recognizable across cultures. 
+In each depiction of the dragon in this collection, the shape remains largely the same, though with some regional differences. It retains what could be classified as classic motifs, with a consistent coiled, serpentine form, regardless of whether its exact design reflects what art historian Persis Berlekamp calls a “Chinese-style,” or a sea monster like al-tannin. In each depiction, the dragon is associated with power in different forms: either beneficial or potentially dangerous. It is perhaps one of the most instantly recognisable iconographic forms on the Silk Road across various cultures and geographies, which could be adapted to a wide range of cultural needs. Its form was often dual in intention, as Abbas Daneshvari points out in Of Serpents and Dragons in Islamic Art and Related Animals: An Iconographic Study, “The dual symbolism of the dragon [...] communicates the ruler's significance as the light that is both beneficial and immolating; and also as the darkness that is both destructive and protecting.”[^1] The dragon, across these objects, is a clearly multifaceted force that communicated meaning through a shared visual language that was recognizable across cultures. 
 
 [^1]:Abbas Daneshvari, Of Serpants and Dragons in Islamic Art and Related Animals: An Iconographic Study (Santa Ana: Mazda Publishers Inc, 2021), 112.
 
@@ -43,7 +43,7 @@ One of the strongest common motifs in the dragon's symbolism is that its defeat 
 ## Dragons as Cosmology
 Beyond destruction or legitimacy, dragon iconography could also represent a larger cosmological system as a symbol of rulership. The object that perhaps best represents this is titled “Bowl with Dragons,” dated 607 AH/1210 CE, likely produced in Iran. The objects coiling serpents whose heads meet concentrically around the bowl have been cited as a depiction of al-Jawzahr, a pseudo-planetary dragon entity believed to both cause and reverse eclipses by swallowing the moon and sun.[^4] First noticed by historian Willy Hartner in his 1932 article “The Pseudoplanetary Nodes of the Moon's Orbit in Hindu and Islamic Iconographies,” it was believed to serve as an eighth planet, a cosmological entity that was also believed to cause eclipses.[^5] Though modern scholarship on the entity is undergoing a turn, with modern Islamic art historians like Sheila R. Canby arguing that astronomers in the Seljuq era knew that the eclipse dragon was not an actual planet, yet it was still viewed that the dragon itself may have served an iconographic function as a symbol of ruling itself.[^6] Either way, as Oya Pancaroǧlu notes in “Socializing Medicine: Illustrations of the Kitāb al-diryāq,” imagery of al-Jawzahr can,  “[...]in many cases, be read as images of the triumph of light over darkness or good over evil, as the two ‘planets’ are always seen to emerge unscathed from their temporary eclipse by the ‘dragon’.”[^7] As many of the historical interpretations of this imagery conclude, this object represents how mythological traditions could be portrayed in art to convey not only protection, but also strength, astrological knowledge, and the legitimacy of a ruler.
 
-{% include typography/aside.html class="right" text="Imagery of al-Jawzahr can, [...] in many cases be read as images of the triumph of light over darkness or good over evil." %}[^8]
+{% include typography/aside.html class="right" text="Imagery of al-Jawzahr can, [...] in many cases be read as images of the triumph of light over darkness or good over evil."[^8] %}
 
 
 [^4]: “Bowl with Dragons,”ca. 607 AH/1210 CE, Stonepaste; glazed in opaque white, luster-painted, part of the inscription scratched in luster. New York, Metropolitan Museum of Art, acc. No.61.40, accessed April 9th, 2026. https://www.metmuseum.org/art/collection/search/451636. 
@@ -77,6 +77,7 @@ Marking a departure from the more mythological and fantastical elements of the p
 [^13]:  Persis Berlekamp, Wonder, Image, and Cosmos in Medieval Islam, 80.
 
 > “No matter how unlikely an oddity might seem, much is to be gained from seeking and acknowledging whatever truth it contains.[^13]”
+
 ## Conclusion
 Across all of these objects, the iconography of the dragon undergoes transformative shifts in meaning, reflecting the dynamic cultural exchanges along the Silk Road. In “Isfandiyar's Third Course: He Slays a Dragon,” the dragon functions as a narrative obstacle on the way to kingship; to slay it is both required and encouraged as an important facet of the slayer's legitimacy to rule. In the bowl, the dragon is a far more cosmological force, offering protection and benefits rather than chaos and death in an inverse of the first. In the mortar, we are instead directly presented with an image of the dragon as a protector and magical beneficiary; it remains a fearsome, apotropaic force, but it is placed within a much larger system of cultural conversation that in many ways reduces its ferocity. In The Wonders of Creation and the Oddities of Existence, al-tannin represents an entirely categorizable entity in contrast to the rest. It is presented as real, observable, and a legitimate site of knowledge. Throughout each of these widely different portrayals, the dragon is still instantly recognizable, and though its form and meaning have shifted, it remains a shared cultural concept across cultures. This speaks to a much larger truth of the Silk Road: it was not just a route through which luxury goods were exchanged; it also represented the cross-national network through which ideas were constantly shifting and adapting to space and time. The dragon in each of these is not simply a mythological creature, but rather an iconographic symbol for articulating power and authority, understanding both the cosmos and astrological forces, and ultimately a way to categorize and formulate knowledge itself. 
 
@@ -85,12 +86,21 @@ Across all of these objects, the iconography of the dragon undergoes transformat
 ## Bibliography
 
 -Ballian, Anna. “Three Medieval Islamic Brasses and the Mosul Tradition of Inlaid Metalwork.” Μουσείο Μπενάκη 9, no. 9 (2013): 113–122.
+
 -Berlekamp, Persis. Wonder, Image, and Cosmos in Medieval Islam. New Haven: Yale University Press, 2011.
+
 -Canby, Sheila R., et al. Court and Cosmos: The Great Age of the Seljuqs. New York: Metropolitan Museum of Art, 2016.
+
 -Daneshvari, Abbas. Of Serpents and Dragons in Islamic Art and Related Animals: An Iconographic Study. Santa Ana: Mazda Publishers, 2021.
+
 -Hartner, Willy. “The Pseudoplanetary Nodes of the Moon’s Orbit in Hindu and Islamic Iconographies.” Ars Islamica 5, no. 2 (1938): 112–154.
+
 -“Isfandiyar’s Third Course: He Slays a Dragon.” Folio 434v from the Shahnama (Book of Kings) of Shah Tahmasp. Attributed to Abu’l Qasim Firdausi; painting attributed to Qasim ibn ‘Ali. Ca. 1530. Opaque watercolor, ink, silver, and gold on paper. New York: Metropolitan Museum of Art, acc. no. 1970.301.51. Accessed April 5, 2026. https://www.metmuseum.org/art/collection/search/452160
+
 -“Bowl with Dragons.” Ca. 607 AH/1210 CE. Stonepaste; glazed in opaque white, luster-painted, with part of the inscription scratched in luster. New York: Metropolitan Museum of Art, acc. no. 61.40. Accessed April 9, 2026. https://www.metmuseum.org/art/collection/search/451636.
+
 -“Mortar and Pestle Made for Abu Bakr ‘Ali Malikzad al-Tabrizi.” Late 12th-early 13th century. Bronze; inlaid with silver and black compound. New York: Metropolitan Museum of Art, acc. no. 91.1.527a, b. Accessed April 8, 2026. https://www.metmuseum.org/art/collection/search/444529. 
+
 -Pancaroğlu, Oya. “Socializing Medicine: Illustrations of the Kitāb al-diryāq.” Muqarnas 18 (2001): 155–172.
+
 -“The Tannin.” Folio 73v from The Wonders of Creation and the Oddities of Existence. Attributed to Zakariya al-Qazwini. Wasit, Iraq, 1280. Munich: Bayerische Staatsbibliothek, MS cod. arab. 464
