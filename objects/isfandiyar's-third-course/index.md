@@ -21,7 +21,7 @@ tags:
 class="right"
 width="48%"
 caption= " 'Isfandiyars Third Course: He Slays a Dragon,' Folio 434v from the Shahnama (Book of Kings) of Shah Tahmasp, authored by Abu'l Qasim Firdausi and likely painted by Qasim ibn 'Ali, ca. 1530, Opaque watercolor, ink, silver, and gold on paper. Metropolitan Musueam of Art, New York, acc. No.1970.301.51.[Source](https://www.metmuseum.org/art/collection/search/452160"
-image-path="he-slays-a-dragon.jpg"
+image-path="images/he-slays-a-dragon.jpg"
 %}
 
 This object is folio 434v from the landmark codices known as the Shahnama, or Book of Kings, ca.1530. Titled “Isfandiyar's Third Course: He Slays a Dragon,” by art historians today, it is believed to have been painted by Qasim ibn ‘Ali, an artist from Shiraz active in the Safavid court in the 16th century. The author of the story the folio recounts is attributed to Abu'l Qasim Firdausi, a well-known Persian poet active in Tous, Iran, in the late ninth and early tenth centuries. The folio is currently on display at the Metropolitan Museum of Art in New York, Object number 1970.301.51. The illustration and decorative Arabic are done in opaque watercolor, ink, silver, and gold on paper, creating a refined illuminated manuscript rendition of the classic story. Unfortunately, in the modern age, the whole of the Shahnama is dispersed in museums throughout the world, though individual folios like this one provide a rare glimpse into the intention and beauty of the full codex. The folio presents the slaying of the dragon as a victory over the personification of chaos, whose defeat reaffirms the legitimacy of the victor. 
@@ -42,7 +42,7 @@ This painting depicts the third of seven challenges that the folk hero Prince Is
 ## Conclusion and an Exchange of Gifts
 The Shanamah, and this folio by extension, played a key role in the vital diplomatic avenue on the Silk Road: the exchange of gifts. As a historian of Islamic art, Sinem Casale notes in Gifts in the Age of Empire: Ottoman-Safavid Cultural Exchange, 1500–1639, this object was a part of a much larger gift procession presented by the Safavid king to the newly enthroned Ottoman sultan Selim II (r. 1566–74) in 1568.[^4] The gift-giving mission, as Casale points out, was one with the strict goal of peace amidst a time of conflict within the Islamic world, where Shah Tahmasp needed to appear as a legitimate and powerful, but subservient, ruler in the eyes of the Ottoman sultan.[^5] Shah Tahmasp presented the object as a multilayered, flexible gift whose cultural symbolism and intent could adapt based on its audience, thereby reaffirming the sultan's position as master of a cosmopolitan world.[^6] Objects like folio 434v, “Isfandiyar's Third Course: He Slays a Dragon,” therefore increase the sovereign authority and control of the holder, where scenes of heroic triumph over exotic and dangerous beasts of chaos project ideals of strength, wit, and order.
 
-[^4}]: Sinem Arcak Casale, Gifts in the Age of Empire: Ottoman-Safavid Cultural Exchange, 1500–1639 (Chicago: University of Chicago Press, 2023), 68-69.
+[^4]: Sinem Arcak Casale, Gifts in the Age of Empire: Ottoman-Safavid Cultural Exchange, 1500–1639 (Chicago: University of Chicago Press, 2023), 68-69.
 
 [^5]: Sinem Arcak Casale, Gifts in the Age of Empire: Ottoman-Safavid Cultural Exchange, 1500–1639, 77.
 
