@@ -20,7 +20,7 @@ tags:
 {% include images/figure.html
 class="right"
 width="48%"
-caption='"Isfandiyar's Third Course: He Slays a Dragon", Folio 434v from the Shahnama (Book of Kings) of Shah Tahmasp, authored by Abu'l Qasim Firdausi and likely painted by Qasim ibn 'Ali, ca. 1530, Opaque watercolor, ink, silver, and gold on paper. Metropolitan Musueam of Art, New York, acc. No.1970.301.51.[Source](https://www.metmuseum.org/art/collection/search/452160)'
+caption= " 'Isfandiyars Third Course: He Slays a Dragon,' Folio 434v from the Shahnama (Book of Kings) of Shah Tahmasp, authored by Abu'l Qasim Firdausi and likely painted by Qasim ibn 'Ali, ca. 1530, Opaque watercolor, ink, silver, and gold on paper. Metropolitan Musueam of Art, New York, acc. No.1970.301.51.[Source](https://www.metmuseum.org/art/collection/search/452160"
 image-path="he-slays-a-dragon.jpg"
 %}
 
