@@ -4,7 +4,7 @@ title: "Isfandiyar's Third Course: He Slays a Dragon"
 layout: base
 header-image: images/cropped-theme-essay-header.jpg
 thumbnail: images/he-slays-a-dragon.jpg
-summary: This object is folio 434v from the landmark codices known as the Shahnama, or Book of Kings, ca.1530. Titled “Isfandiyar's Third Course: He Slays a Dragon,” by art historians today, it is believed to have been painted by Qasim ibn ‘Ali, an artist from Shiraz active in the Safavid court in the 16th century. Objects such as this show how iconography of dragons could increase the sovereign authority and control of the holder; where scenes of heroic triumph over exotic and dangerous beasts of chaos project ideals of strength, wit, and order.
+summary: This object is folio 434v from the landmark codices known as the Shahnama, or Book of Kings, ca.1530. Titled “Isfandiyar's Third Course, He Slays a Dragon,” by art historians today, it is believed to have been painted by Qasim ibn ‘Ali, an artist from Shiraz active in the Safavid court in the 16th century. Objects such as this show how iconography of dragons could increase the sovereign authority and control of the holder; where scenes of heroic triumph over exotic and dangerous beasts of chaos project ideals of strength, wit, and order.
 geo: [29.611962587104326, 52.574553955682234]
 placename: Shiraz,Iran
 tags:
@@ -20,7 +20,7 @@ tags:
 {% include images/figure.html
 class="right"
 width="48%"
-caption=""Isfandiyar's Third Course: He Slays a Dragon", Folio 434v from the Shahnama (Book of Kings) of Shah Tahmasp, authored by Abu'l Qasim Firdausi and likely painted by Qasim ibn 'Ali, ca. 1530, Opaque watercolor, ink, silver, and gold on paper. Metropolitan Musueam of Art, New York, acc. No.1970.301.51.[Source](https://www.metmuseum.org/art/collection/search/452160)"
+caption='"Isfandiyar's Third Course: He Slays a Dragon", Folio 434v from the Shahnama (Book of Kings) of Shah Tahmasp, authored by Abu'l Qasim Firdausi and likely painted by Qasim ibn 'Ali, ca. 1530, Opaque watercolor, ink, silver, and gold on paper. Metropolitan Musueam of Art, New York, acc. No.1970.301.51.[Source](https://www.metmuseum.org/art/collection/search/452160)'
 image-path="he-slays-a-dragon.jpg"
 %}
 
