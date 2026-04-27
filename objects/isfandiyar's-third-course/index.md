@@ -21,8 +21,9 @@ tags:
 class="right"
 width="48%"
 caption="Isfandiyar's Third Course: He Slays a Dragon, Folio 434v from the Shahnama (Book of Kings) of Shah Tahmasp, authored by Abu'l Qasim Firdausi and likely painted by Qasim ibn 'Ali, ca. 1530. Opaque watercolor, ink, silver, and gold on paper. Metropolitan Museum of Art, New York, acc. no. 1970.301.51. [Source](https://www.metmuseum.org/art/collection/search/452160)"
-image-path="he-slays-a-dragon.jpg"
+image-path="images/he-slays-a-dragon.jpg"
 %}
+
 
 
 This object is folio 434v from the landmark codices known as the Shahnama, or Book of Kings, ca.1530. Titled “Isfandiyar's Third Course: He Slays a Dragon,” by art historians today, it is believed to have been painted by Qasim ibn ‘Ali, an artist from Shiraz active in the Safavid court in the 16th century. The author of the story the folio recounts is attributed to Abu'l Qasim Firdausi, a well-known Persian poet active in Tous, Iran, in the late ninth and early tenth centuries. The folio is currently on display at the Metropolitan Museum of Art in New York, Object number 1970.301.51. The illustration and decorative Arabic are done in opaque watercolor, ink, silver, and gold on paper, creating a refined illuminated manuscript rendition of the classic story. Unfortunately, in the modern age, the whole of the Shahnama is dispersed in museums throughout the world, though individual folios like this one provide a rare glimpse into the intention and beauty of the full codex. The folio presents the slaying of the dragon as a victory over the personification of chaos, whose defeat reaffirms the legitimacy of the victor. 
