@@ -30,7 +30,7 @@ This object is titled “Bowl with Dragons,” dated 607 AH/1210 CE, and was lik
 
 ## al-Jawzahr, The Pseudoplantetary Dragon
 
-{% include images/figure.html class="right" width="48%" caption="'Bowl with Dragons,'ca. 607 AH/1210 CE, Stonepaste; glazed in opaque white, luster-painted, part of the inscription scratched in luster. New York, Metropolitan Museum of Art, acc. No.61.40. [Source](https://www.metmuseum.org/art/collection/search/451636)" image-path="bowl-with-dragons.jpg" %}"
+{% include images/figure.html class="right" width="48%" caption="'Bowl with Dragons,'ca. 607 AH/1210 CE, Stonepaste; glazed in opaque white, luster-painted, part of the inscription scratched in luster. New York, Metropolitan Museum of Art, acc. No.61.40. [Source](https://www.metmuseum.org/art/collection/search/451636)" image-path="images/bowl-with-dragons.jpg" %}"
 
 Al-Jawzahr presents itself as a common iconographic motif amongst other items of Seljuk origin. The being was believed to be a pseudo-planet, ranking as a legitimate cosmological entity besides familiar planets like Jupiter and Mars.[^3] This being, as discussed by historian Willy Hartner in his article “The Pseudoplanetary Nodes of the Moon's Orbit in Hindu and Islamic Iconographies,” served as an eighth planet.[^4] Hartner notes that the entity often appears with a serpentine body and has “terrifying dragons heads,” whose name comes from two Persian words meaning “comet,” “dragon's head and tail,” with the second form still in use (though rarely) to describe the ascending and descending nodes of the moons orbit.[^5] A primarily Iranian ethnic audience would likely have recognized the al-Jawzhar iconography on the bowl as a sign of good fortune, as his form was believed to be both beneficial and protective. 
 

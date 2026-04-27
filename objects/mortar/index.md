@@ -30,7 +30,7 @@ This object is a Mortar and Pestle made for Abu Bakr 'Ali Malikzad al-Tabrizi, m
 
 ## The Seljuks and Metalworking
 
-{% include images/figure.html class="right" width="48%" caption="Mortar and Pestle made for Abu Bakr 'Ali Malikzad al-Tabrizi, ca. Late 12th century early 13th, Bronze; inlaid with silver and black compound. Metropolitan Musueam of Art, New York, acc. No 91.1.527a, b. [Source](https://www.metmuseum.org/art/collection/search/444529)" image-path="mortar.jpg" %}"
+{% include images/figure.html class="right" width="48%" caption="Mortar and Pestle made for Abu Bakr 'Ali Malikzad al-Tabrizi, ca. Late 12th century early 13th, Bronze; inlaid with silver and black compound. Metropolitan Musueam of Art, New York, acc. No 91.1.527a, b. [Source](https://www.metmuseum.org/art/collection/search/444529)" image-path="images/mortar.jpg" %}"
 
 Iran in the twelfth century was home to a group of metalworkers and empire builders known to us today as the Seljuks. The prestige that metalwork offered is discussed in the study “Three Medieval Islamic Brasses and The Mosul Tradition of Inlaid Metalwork” by Anna Ballian, where she states that “The inlaid metalwork objects were primarily aimed at the elite of the day; they were expensive and offered their owners social prestige.”[^3] Metalworking and bronze casting became a mobile way to display wealth and power without technically violating any religious law, leading to a popularity in the craft among elites in the Seljuks.
 
